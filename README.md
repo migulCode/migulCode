@@ -15,4 +15,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=migulCode&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=migulCode&label=Profile+Views&color=brightgreen)
+![](https://api-readme-81a9ecf31f18.herokuapp.com/)
